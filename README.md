@@ -1,3 +1,5 @@
 # Hello World
 
-main.cpp illustrates a very simple C++ console application that displays the message "Hello, World" and then terminates.
+*C++ Hello World demonstrated in main.cpp
+*python3 Hello World demonstrated in main.py
+
